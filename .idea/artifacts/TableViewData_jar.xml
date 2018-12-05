@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="TableViewData:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/TableViewData_jar</output-path>
+    <root id="archive" name="TableViewData.jar">
+      <element id="module-output" name="TableViewData" />
+    </root>
+  </artifact>
+</component>
